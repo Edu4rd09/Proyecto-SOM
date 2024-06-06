@@ -1,0 +1,17 @@
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Alumno.resources
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formgastos.resources
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo\Downloads\SOM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
